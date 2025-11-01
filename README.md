@@ -37,10 +37,13 @@ Below lists part of the
 #### Citation
 This work has been accepted by IEEE T-ASE and will be presented in IROS24. If you found this work interesting and adopted part of it to your own research, or if this work inspires your research, you can cite our paper by:
 ```
-@ARTICLE{dvthu24,
-  title     = {Robot-Assisted Deep Venous Thrombosis Ultrasound Examination using Virtual Fixture},
-  author    = {Dianye, Huang, and Chenguang, Yang and Mingchuan, Zhou and Angelos, Karlas and Nassir, Nava and Zhongliang,  Jiang},
-  journal = {IEEE Transactions on Automation Science and Engineering},
-  year = {2024}
+@article{huang2024robot,
+  title={Robot-assisted deep venous thrombosis ultrasound examination using virtual fixture},
+  author={Huang, Dianye and Yang, Chenguang and Zhou, Mingchuan and Karlas, Angelos and Navab, Nassir and Jiang, Zhongliang},
+  journal={IEEE Transactions on Automation Science and Engineering},
+  volume={22},
+  pages={381--392},
+  year={2024},
+  publisher={IEEE}
 }
 ```
